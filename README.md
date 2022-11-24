@@ -1,5 +1,4 @@
-```{include} /_includes/overview/announcement.md
-```
+[bb](https://readthedocs.org/projects/ray/badge/?version=master)
 
 # Welcome to the Ray documentation
 
