@@ -5,7 +5,7 @@
 The answer is crystal straight! After a long part of developing of your model (layers, input data, sahpe ...), you will get a trained model as output.
 You will probably ask yourself: what can I do to improve the performance of my model? At this point, you have several answers:
 - **Improve the quality of the data:** clean the data, create new features, reduce the dimensions, remove some outliers, remove some features, cluster the data, etc.
-- **Improve the performance of the algorithm:** this is what you called "tuning".
+- **Improve the performance of the algorithm:** this is what we called "tuning".
 
 Adjusting hyperparameters can make the difference between an average model and a highly accurate model. For instance, simple things like choosing a different learning rate or changing the size of a network layer can have a dramatic impact on the performance of your model.
 
