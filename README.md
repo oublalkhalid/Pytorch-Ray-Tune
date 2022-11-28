@@ -28,6 +28,12 @@ Learn more about [Ray AIR](https://docs.ray.io/en/latest/ray-air/getting-started
 Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a growing
 [ecosystem of community integrations](https://docs.ray.io/en/latest/ray-air/getting-started.html).
 
+## Dataset 
+- To run tests you can download the `blood-cells` data from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)
+## Output
+<img src="src/output.png" alt="Output">
+
+
 ## Why Ray?
 Today's ML workloads are increasingly compute-intensive. As convenient as they are, single-node development environments such as your laptop cannot scale to meet these demands.
 Ray is a unified way to scale Python and AI applications from a laptop to a cluster.
