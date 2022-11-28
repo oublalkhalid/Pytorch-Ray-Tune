@@ -31,7 +31,7 @@ Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a
 ## Dataset 
 - To run tests you can download the `blood-cells` data from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)
 ## Output
-<img src="src/output.png" alt="Output">
+<img src="src/Screenshot 2022-11-28 at 14.53.02.png" alt="Output">
 
 
 ## Why Ray?
