@@ -1,4 +1,4 @@
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![APM](https://img.shields.io/apm/l/python?color=%21%5BAPM%5D%28https%3A%2F%2Fimg.shields.io%2Fapm%2Fl%2Fpython%3Fstyle%3Dfor-the-badge%29&logo=%21%5BAPM%5D%28https%3A%2F%2Fimg.shields.io%2Fapm%2Fl%2Fpython%3Fstyle%3Dfor-the-badge%29&logoColor=%21%5BAPM%5D%28https%3A%2F%2Fimg.shields.io%2Fapm%2Fl%2Fpython%3Fstyle%3Dfor-the-badge%29&style=for-the-badge)
 # Pytorch-Ray-Tune
 
 Adjusting hyperparameters can make the difference between an average model and a highly accurate model. For instance, simple things like choosing a different learning rate or changing the size of a network layer can have a dramatic impact on the performance of your model.
