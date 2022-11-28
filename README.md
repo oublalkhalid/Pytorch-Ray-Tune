@@ -5,6 +5,15 @@ Adjusting hyperparameters can make the difference between an average model and a
 
 Luckily, there are tools that help find the best combination of parameters. Ray Tune is an innovative industry standard tool for tuning distributed hyperparameters. Ray Tune includes the latest hyperparameter search algorithms, integrates with TensorBoard and other analysis libraries, and natively supports distributed training with Ray's distributed machine learning engine.
 
+- Hyperparameter Optimization Checklist:
+  - Manual Search.
+  - Grid Search.
+  - Randomized Search.
+  - Halving Grid Search.
+  - Halving Randomized Search.
+  - HyperOpt-Sklearn.
+  - Bayes Search.
+
 Claim: This repository will be maintained, so that it can eventually be used for [Neuralprophet](https://neuralprophet.com/) too (Stanford, Meta tools). 
 ## What is Ray?
 
