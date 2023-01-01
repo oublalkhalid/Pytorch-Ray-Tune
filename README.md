@@ -1,4 +1,4 @@
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![APM](https://img.shields.io/apm/l/python?color=%21%5BAPM%5D%28https%3A%2F%2Fimg.shields.io%2Fapm%2Fl%2Fpython%3Fstyle%3Dfor-the-badge%29&logo=%21%5BAPM%5D%28https%3A%2F%2Fimg.shields.io%2Fapm%2Fl%2Fpython%3Fstyle%3Dfor-the-badge%29&logoColor=%21%5BAPM%5D%28https%3A%2F%2Fimg.shields.io%2Fapm%2Fl%2Fpython%3Fstyle%3Dfor-the-badge%29&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 # Pytorch-Ray-Tune
 
 #### What is the difference between ```training``` and ```tuning```? Is tuning a part of training?
